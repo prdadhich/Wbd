@@ -22,7 +22,7 @@ Sample json file structure
 }
 ocation.json…]()
 
-
+Download the json file and edit it accordingly
 
 
 
