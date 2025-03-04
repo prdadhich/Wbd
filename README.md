@@ -1,7 +1,7 @@
-# Wbd
+[Location.json](https://github.com/user-attachments/files/19068379/Location.json)# Wbd
 Sample json file structure 
-.....Start
-{
+
+[Uploading L{
   "StartLocation": {
     "X": 150.0,
     "Y": -350.0,
@@ -20,7 +20,11 @@ Sample json file structure
     
   }
 }
-......end
+ocation.json…]()
+
+
+
+
 
 
 
