@@ -34,7 +34,12 @@ public:
     UFUNCTION(BlueprintCallable, Category = "Movement")
     void StartMoveToStart(const FString& FilePath, float Speed);
   
+    UFUNCTION(BlueprintCallable, Category = "MoveActor")
+    void ApplyTextureToMesh(UStaticMeshComponent* MeshComponent, const FString& TextureKey, const FString& FilePath);
 
+
+	UTexture2D* LoadTextureFromFile(const FString& ImagePath);
+	FString GetTexturePathFromJson(const FString& FilePath, const FString& Key);
 
 
 
